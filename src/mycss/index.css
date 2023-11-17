@@ -1,0 +1,26 @@
+
+.myselection {
+    width: 150px;
+    float: inline-start;
+    border: 1px solid #ccc;
+    padding: 8px;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+  }
+
+.myselection  p{
+    text-align: center;
+    font-size: 30px;
+  }
+
+.myselection  button{
+    padding: 20px;
+    background-color: rgb(172, 98, 98);
+    color: black;
+    border-radius: 0px;
+    border: 2px solid #ccc;
+  }
+
+.myselection button:hover{
+    background-color: rgb(255, 255, 255);
+    color: black(226, 236, 226);
+}
